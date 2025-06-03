@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.stay.pilot",
+      "package_name": "com.stay.pilot.dev",
       "sha256_cert_fingerprints": [
-        "A2:F1:92:B3:75:4B:49:AD:01:99:57:DF:0E:7B:54:C9:95:D5:61:79:E6:84:D3:7A:95:74:49:77:33:4A:2E:EA"
+        "AE:CF:9A:D1:44:4A:35:CF:22:73:98:D0:B7:C9:1B:A1:27:B4:B8:6C:05:E2:43:EC:3D:26:70:14:11:4E:CB:68"
       ]
     }
   }
